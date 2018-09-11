@@ -15,6 +15,7 @@ Then, clone the repository and install all dependencies:
 ```
 git clone https://github.com/nrkno/tv-automation-server-core.git
 cd tv-automation-server-core
+cd meteor
 meteor npm install
 meteor
 ```
